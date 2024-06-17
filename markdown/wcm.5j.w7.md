@@ -2,7 +2,7 @@
 Title: WCM五專第7周課程內容
 Date:2024-03-18 11:00
 Category: 五專
-Tags:Chatgpt, w7
+Tags: w7
 Slug:wcm-5j-w7
 Author: 51233125
 ---

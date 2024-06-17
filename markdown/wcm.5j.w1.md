@@ -1,7 +1,7 @@
 ---
 Title: WCM五專第1周課程內容
 Category: 五專
-Tags:Chatgpt, w1
+Tags: w1
 Slug:wcm-5j-w1
 Author: 51233125
 ---
